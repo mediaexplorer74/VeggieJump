@@ -12,9 +12,9 @@ This is my experiment to run Monogame UWP app on/in W10M Astoria :)
 ![W10MAstoria](Images/shot3.png)
 
 ## Features
-- MonoGame: min. Win. OS Build descreased to 10240 (Astoria Compatibility).
-- VeggieJump (MonoGame2D sample): min. Win. OS Build descreased to 10240 (Astoria Compatibility).
-- Mouse control added.
+- MonoGame: min. Win. OS Build decreased to 10240 (Astoria Compatibility).
+- VeggieJump (MonoGame2D sample): min. Win. OS Build descreased to 10240.
+- Mouse control added ("mixed" with keyboard control).
 - TouchPanel state parsing added.
 
 
