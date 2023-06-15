@@ -1,18 +1,26 @@
----
+# VeggieJump 1.0.x (MonoGame2D sample)
+
+![W11](Images/broccoli.png)
+
+url: https://github.com/microsoft/windows-appsample-get-started-mg2d/tree/master/
 page_type: sample
 description: "A sample app accompanying a tutorial that teaches you the basics of game development in MonoGame."
-languages:
-- csharp
-products:
-- windows
-statusNotificationTargets:
-- codefirst@microsoft.com
----
+languages: csharp
+products: windows 10, windows 10 mobile
 
-# Get Started with MonoGame 2D
+## About 
+This is my experiment to run Monogame UWP app on/in W10M Astoria :)
+
+## Screenshots
+![W11](Images/shot1.png)
+![W11](Images/shot2.png)
+![W10MAstoria](Images/shot3.png)
+
+## Features
+Min. Win. OS Build descreased to 10240 (Astoria Compatibility)
 
 ## Requirements
-This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/windows/uwp/get-started/get-set-up).
+This app requires Visual Studio 2022 Community to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/windows/uwp/get-started/get-set-up).
 
 ## Install and run the app
 1. Install **MonoGame 3.6** for Visual Studio from [monogame.net](http://www.monogame.net/)
@@ -20,9 +28,11 @@ This app requires Visual Studio to run. [Click here to learn how to get set up w
 3. Open **MonoGame2D.sln** in Visual Studio.
 4. To run the app, press **F5**. To quit, press **ESC**.
 
-## Learn more about MonoGame and UWP
-For a step-by-step walkthrough of the code, check out the [MonoGame 2D tutorial on docs.microsoft.com](https://docs.microsoft.com/en-us/windows/uwp/get-started/get-started-tutorial-game-mg2d).
+## Learn more about MonoGame UWP gamedev
+For a step-by-step walkthrough of the code, check out the [MonoGame 2D tutorial on docs.microsoft.com](https://web.archive.org/web/20170907085024/https://docs.microsoft.com/en-us/windows/uwp/get-started/get-started-tutorial-game-mg2d).
 
-To learn more about getting started with the Universal Windows Platform, see the [Getting Started Hub](https://developer.microsoft.com/en-us/windows/apps/getstarted)
+## ..
+As is. No support. For Learning purposes only.
 
-To learn how to publish apps to the Microsoft Store, see [Publishing your Microsoft Store app](https://developer.microsoft.com/en-us/store/publish-apps).
+## .
+[m][e] 2023
